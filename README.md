@@ -1,4 +1,4 @@
-# SingleResponsibility
+# 1. SingleResponsibility
 - It is one of the strongest SOLID Principles to isolate respective functionalities.
 - class should have only one responsibility to do.
 
